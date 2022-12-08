@@ -1,4 +1,5 @@
-import discum, time, randomtime
+import discum, time
+import randomtime
 
 token = "" #  Your account token
 guild_id = '741794683482538074' # The guild you wanna scrape id
