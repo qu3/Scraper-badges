@@ -1,1 +1,1 @@
-pip install -r requirements.txt e
+pip install -r requirements.txt s
