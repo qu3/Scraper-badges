@@ -1,7 +1,7 @@
 import discum, time
 import randomtime
 
-token = "" #  Your account token
+token = "" #  
 guild_id = '741794683482538074' # The guild you wanna scrape id
 channel_id = '762990185683222589' # get the id of a channel that most people can see like #rules etc
 bot = discum.Client(token= token, log=True)
